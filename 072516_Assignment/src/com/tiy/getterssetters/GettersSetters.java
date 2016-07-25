@@ -70,14 +70,14 @@
 	
 	
 6)
-	private String date;
+	private Date date;
 	
-	public void setDate(String date)
+	public void setDate(Date date)
 	{
 		this.date = date;
 	}
 	
-	public String getDate()
+	public Date getDate()
 	{
 		return date;
 	}
